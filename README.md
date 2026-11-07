@@ -2,6 +2,8 @@
 
 A desk companion on a FREE-WiLi. It announces your iPhone messages and missed calls, then reads them aloud only when you ask.
 
+**Devpost:** [devpost.com/software/superdesk](https://devpost.com/software/superdesk) (MHacks 2026)
+
 ## How it works
 
 ```
