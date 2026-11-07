@@ -6,3 +6,6 @@ node_modules/
 vosk-model-*/
 music/
 *.wav
+__pycache__/
+*.pyc
+.DS_Store
